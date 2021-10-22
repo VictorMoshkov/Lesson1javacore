@@ -1,4 +1,5 @@
 //Добавил препятствие бег
+//
 public class Course {
     int[] obstacles;
 
