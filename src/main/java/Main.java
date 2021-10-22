@@ -1,4 +1,6 @@
+//Добавил препятствие бег
 public class Main {
+
     public static void main(String[] args) {
         Member member1 = new Member("Kolya",100,300);
         Member member2 = new Member("Oly",150,500);

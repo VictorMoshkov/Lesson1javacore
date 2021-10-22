@@ -1,3 +1,4 @@
+//Добавил препятствие бег
 public class Member {
     String name;
     int jumpHeight;
